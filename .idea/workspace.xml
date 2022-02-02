@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9a16188-a6d1-41ba-a71b-6f2684183fdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e9a16188-a6d1-41ba-a71b-6f2684183fdd" name="Changes" comment="专门提交给github">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test2/homework2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test2/homework2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643818620598</updated>
-      <workItem from="1643818622760" duration="807000" />
+      <workItem from="1643818622760" duration="1647000" />
     </task>
     <task id="LOCAL-00001" summary="这是专门提交给gitee的修改">
       <created>1643818769355</created>
@@ -88,7 +82,42 @@
       <option name="project" value="LOCAL" />
       <updated>1643819287506</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="这是一个分支的修改,专门提交给github">
+      <created>1643819464571</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643819464571</updated>
+    </task>
+    <task id="LOCAL-00005" summary="这是一个分支的修改,专门提交给github">
+      <created>1643819489349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643819489349</updated>
+    </task>
+    <task id="LOCAL-00006" summary="这是一个分支的修改,专门提交给github">
+      <created>1643819711900</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643819711900</updated>
+    </task>
+    <task id="LOCAL-00007" summary="这是一个分支的修改,专门提交给github">
+      <created>1643820083988</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643820083988</updated>
+    </task>
+    <task id="LOCAL-00008" summary="专门提交给github">
+      <created>1643820160809</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643820160809</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +138,7 @@
     <MESSAGE value="这是专门提交给gitee的修改" />
     <MESSAGE value="这是一个分支的修改" />
     <MESSAGE value="这是一个分支的修改,专门提交给github" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是一个分支的修改,专门提交给github" />
+    <MESSAGE value="专门提交给github" />
+    <option name="LAST_COMMIT_MESSAGE" value="专门提交给github" />
   </component>
 </project>
