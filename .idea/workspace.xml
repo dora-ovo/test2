@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b92dbeee-5015-4026-9e52-41996bf6e66f" name="Changes" comment="IDEA整合GitHub测试,这是第四次修改了" />
+    <list default="true" id="e9a16188-a6d1-41ba-a71b-6f2684183fdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test2/homework2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test2/homework2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +29,8 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="24YTXmHglTBHpHzDPQkidOvmQaK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="24YrxXav0NCSxtgMwG2XO0oC6rk" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -31,20 +40,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
-  <component name="RunManager" selected="Application.homework2">
-    <configuration name="homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework" />
-      <module name="test2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework2" />
+  <component name="RunManager">
+    <configuration name="homework4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4" />
       <module name="test2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,75 +53,42 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework2" />
-        <item itemvalue="Application.homework" />
+        <item itemvalue="Application.homework4" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\dora_ovo\AppData\Roaming\Subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b92dbeee-5015-4026-9e52-41996bf6e66f" name="Changes" comment="" />
-      <created>1643806576171</created>
+      <changelist id="e9a16188-a6d1-41ba-a71b-6f2684183fdd" name="Changes" comment="" />
+      <created>1643818620598</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1643806576171</updated>
-      <workItem from="1643806580157" duration="4235000" />
-      <workItem from="1643815079823" duration="3112000" />
+      <updated>1643818620598</updated>
+      <workItem from="1643818622760" duration="807000" />
     </task>
-    <task id="LOCAL-00001" summary="IDEA整合GitHub测试">
-      <created>1643810012632</created>
+    <task id="LOCAL-00001" summary="这是专门提交给gitee的修改">
+      <created>1643818769355</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1643810012632</updated>
+      <updated>1643818769355</updated>
     </task>
-    <task id="LOCAL-00002" summary="IDEA整合GitHub测试,进行第二次修改">
-      <created>1643810383109</created>
+    <task id="LOCAL-00002" summary="这是一个分支的修改">
+      <created>1643819079989</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1643810383109</updated>
+      <updated>1643819079989</updated>
     </task>
-    <task id="LOCAL-00003" summary="IDEA整合GitHub测试,这是第三次修改">
-      <created>1643810640562</created>
+    <task id="LOCAL-00003" summary="这是一个分支的修改,专门提交给github">
+      <created>1643819287506</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1643810640562</updated>
+      <updated>1643819287506</updated>
     </task>
-    <task id="LOCAL-00004" summary="IDEA整合GitHub测试,这是第三次修改">
-      <created>1643810688341</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1643810688341</updated>
-    </task>
-    <task id="LOCAL-00005" summary="IDEA整合GitHub测试,这是第三次修改了，提交多次">
-      <created>1643810896325</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1643810896325</updated>
-    </task>
-    <task id="LOCAL-00006" summary="IDEA整合GitHub测试,这是第四次修改了">
-      <created>1643811668218</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1643811668218</updated>
-    </task>
-    <task id="LOCAL-00007" summary="IDEA整合GitHub测试,这是第四次修改了,这次专门提交给gitee">
-      <created>1643816943881</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1643816943881</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,12 +106,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IDEA整合GitHub测试" />
-    <MESSAGE value="IDEA整合GitHub测试,进行第二次修改" />
-    <MESSAGE value="IDEA整合GitHub测试,这是第三次修改" />
-    <MESSAGE value="IDEA整合GitHub测试,这是第三次修改了，提交多次" />
-    <MESSAGE value="IDEA整合GitHub测试,这是第四次修改了" />
-    <MESSAGE value="IDEA整合GitHub测试,这是第四次修改了,这次专门提交给gitee" />
-    <option name="LAST_COMMIT_MESSAGE" value="IDEA整合GitHub测试,这是第四次修改了,这次专门提交给gitee" />
+    <MESSAGE value="这是专门提交给gitee的修改" />
+    <MESSAGE value="这是一个分支的修改" />
+    <MESSAGE value="这是一个分支的修改,专门提交给github" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是一个分支的修改,专门提交给github" />
   </component>
 </project>
